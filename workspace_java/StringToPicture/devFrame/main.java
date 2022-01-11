@@ -25,7 +25,7 @@ public class main {
 //		System.out.println("Frame set 500 x 500");
 		
 		frame.setVisible(true);
-//		System.out.println("Frame set sichtbar");
+//		System.out.println("Frame set sichtbar"); 
 	}
 }
 
